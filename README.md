@@ -1,3 +1,4 @@
+<a href="https://github.com/superPufferfish/custom-zhihu" target="_blank">from superPufferfish</a>
 <a href="https://github.com/superPufferfish/custom-zhihu/blob/main/development/changelog.md" target="_blank">更新日志</a>
 
 <a href="https://github.com/superPufferfish/custom-zhihu" target="_blank">Github</a>
